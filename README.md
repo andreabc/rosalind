@@ -1,2 +1,2 @@
 # Rosalind Solutions
-From: http://rosalind.info/problems
+My original solutions for bioinformatic problems from: http://rosalind.info/problems
